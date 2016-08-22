@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Bugsnag.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>KSCrash.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-bugsnag-test-two.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-bugsnag-test-twoTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-bugsnag-test-twoUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3C932A99FE1362CA29317BA35A3CF91B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40CD497255D46578D026C95FFBEE6C2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>423643552E7A5C8CEB16DFA46FC0973A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>52DD72F129CC58354B6FBF0D9D0CCDA8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FDE533689010C8DB9757CB03B9EF1B4B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
